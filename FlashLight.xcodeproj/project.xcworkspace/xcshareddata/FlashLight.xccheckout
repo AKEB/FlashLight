@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1517846F-6BA1-4652-8222-9F8D9BA44DC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlashLight</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FBB8334-8516-4456-9EB0-CBB525951AB1</key>
+		<string>svn+ssh://akeb.ru/SVN/apple</string>
+		<key>B6A98F2F-60AB-49EA-9A9B-13BD1B7D9BF4</key>
+		<string>svn+ssh://svn.terrhq.ru/SVN/mobpanda/trunk/ios/MR</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlashLight/FlashLight.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FBB8334-8516-4456-9EB0-CBB525951AB1</key>
+		<string>../../..</string>
+		<key>B6A98F2F-60AB-49EA-9A9B-13BD1B7D9BF4</key>
+		<string>../../MR</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6FBB8334-8516-4456-9EB0-CBB525951AB1</key>
+		<string>svn+ssh://akeb.ru/SVN/apple</string>
+		<key>B6A98F2F-60AB-49EA-9A9B-13BD1B7D9BF4</key>
+		<string>svn+ssh://svn.terrhq.ru/SVN/mobpanda</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://akeb.ru/SVN/apple/FlashLight/FlashLight.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FBB8334-8516-4456-9EB0-CBB525951AB1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FBB8334-8516-4456-9EB0-CBB525951AB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Apple</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6A98F2F-60AB-49EA-9A9B-13BD1B7D9BF4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MR</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'FlashLight' target in the 'FlashLight' project
+//
+
+#define MY_BANNER_UNIT_ID @"a14cde8026c230c"
+#define MY_UNIT_ID @"356142085"
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
